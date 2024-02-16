@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a6983d-8587-4e21-97c5-a43cc1c7b8ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PROJECT ON EMPLOYEE ATTRITION.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-attrition-and-factory-eda-models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/employee-attrition-and-factory-eda-models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2R3oy2k0g74P9COKEkXnPfTezRp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +25,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
@@ -52,6 +54,13 @@
       </console-settings>
     </option>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +73,7 @@
       <workItem from="1686493334113" duration="33000" />
       <workItem from="1686493710713" duration="1172000" />
       <workItem from="1687354460521" duration="112000" />
+      <workItem from="1707398640823" duration="379000" />
     </task>
     <servers />
   </component>
